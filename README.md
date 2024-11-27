@@ -1,2 +1,3 @@
 # MIPS-simulation
-A simple python simulation of MIPS architecture
+A simple simulation of MIPS architecture in python.
+To run the code, just paste the assembly file's binary bits in the input array of the processor.py file
