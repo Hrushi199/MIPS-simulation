@@ -1,4 +1,3 @@
-
 # MIPS Simulation
 
 A lightweight Python-based simulator for the MIPS architecture, designed to execute MIPS machine code instructions.  
@@ -53,10 +52,3 @@ MIPS-simulation/
 
 Contributions are welcome!  
 Feel free to fork the repository and submit a pull request for any enhancements or bug fixes.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-```
-
-Let me know if you want to add badges (like Python version or license), images, or example output!
